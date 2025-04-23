@@ -1,6 +1,6 @@
 # Battery-Technology
-
-> A one-stop, interactive knowledge base and visualization platform for next-generation energy-storage innovations. From established lithium-ion variants to breakthrough chemistries and system-level insights.
+**Next-gen energy-storage insights**: Interactive React/TS visualizations comparing Li-ion, Na-ion, solid-state & beyond.  
+*Scroll down for detailed charts & use cases →*
 
 ---
 
